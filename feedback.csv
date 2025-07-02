@@ -1,0 +1,501 @@
+﻿Student ID,Feedback Text,Sentiment,Gender,Course,Instructor,Bias Indicator
+S084,The professor is too strict and doesn't explain concepts well.,Negative,Male,Engineering,Dr. D,Instructor Bias
+S016,I don't feel like I'm learning much in this class.,Negative,Female,Physics,Dr. E,Instructor Bias
+S059,The professor seems uninterested in student concerns.,Negative,Non-binary,Psychology,Dr. F,No Bias
+S060,The professor seems uninterested in student concerns.,Negative,Non-binary,Mathematics,Dr. E,Gender Bias
+S079,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Engineering,Dr. E,Gender Bias
+S042,"The class discussions are great, and the professor is very supportive.",Positive,Female,Physics,Dr. C,Instructor Bias
+S084,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Mathematics,Dr. F,Grading Bias
+S040,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Computer Science,Dr. E,No Bias
+S040,"The class discussions are great, and the professor is very supportive.",Positive,Female,Biology,Dr. C,Instructor Bias
+S086,I don't feel like I'm learning much in this class.,Negative,Female,Computer Science,Dr. E,Gender Bias
+S068,The materials are helpful but could be better structured.,Neutral,Male,Psychology,Dr. D,Racial Bias
+S021,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Psychology,Dr. D,No Bias
+S035,"The grading system is fair, but the feedback could be more detailed.",Neutral,Non-binary,Computer Science,Dr. F,No Bias
+S038,The professor provides excellent real-world examples.,Positive,Non-binary,Physics,Dr. B,Grading Bias
+S054,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Male,Computer Science,Dr. F,Racial Bias
+S028,I don't feel like I'm learning much in this class.,Negative,Female,Computer Science,Dr. B,Gender Bias
+S037,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Male,Mathematics,Dr. B,Grading Bias
+S019,The professor is too strict and doesn't explain concepts well.,Negative,Male,Biology,Dr. B,Gender Bias
+S006,The professor seems uninterested in student concerns.,Negative,Non-binary,Literature,Dr. C,Instructor Bias
+S063,The professor seems uninterested in student concerns.,Negative,Non-binary,Biology,Dr. D,Grading Bias
+S017,"The class discussions are great, and the professor is very supportive.",Positive,Female,Physics,Dr. F,Instructor Bias
+S028,I don't feel like I'm learning much in this class.,Negative,Non-binary,Physics,Dr. A,Instructor Bias
+S047,The professor is too strict and doesn't explain concepts well.,Negative,Male,Literature,Dr. F,Racial Bias
+S018,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Biology,Dr. A,No Bias
+S023,I love this course! The instructor is amazing and engaging.,Positive,Non-binary,Engineering,Dr. F,Instructor Bias
+S067,The professor explains very well and makes the subject interesting.,Positive,Male,Computer Science,Dr. F,Instructor Bias
+S044,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Female,Physics,Dr. F,Racial Bias
+S039,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Female,Computer Science,Dr. E,Instructor Bias
+S051,The assignments were challenging but helpful in understanding concepts.,Positive,Non-binary,Literature,Dr. F,Racial Bias
+S065,The professor is too strict and doesn't explain concepts well.,Negative,Female,Physics,Dr. A,Grading Bias
+S007,I struggled to keep up because the material was not well-organized.,Negative,Male,Mathematics,Dr. C,Racial Bias
+S035,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Literature,Dr. E,Instructor Bias
+S050,The assignments are too difficult and don't match the lectures.,Negative,Female,Biology,Dr. A,Instructor Bias
+S087,I love this course! The instructor is amazing and engaging.,Positive,Non-binary,Computer Science,Dr. C,Racial Bias
+S014,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Psychology,Dr. E,Grading Bias
+S075,The professor seems uninterested in student concerns.,Negative,Female,Mathematics,Dr. F,Racial Bias
+S003,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Biology,Dr. F,Gender Bias
+S017,The materials are helpful but could be better structured.,Neutral,Non-binary,Biology,Dr. E,No Bias
+S012,I don't feel like I'm learning much in this class.,Negative,Male,Psychology,Dr. E,No Bias
+S028,The professor provides excellent real-world examples.,Positive,Female,Physics,Dr. E,Gender Bias
+S072,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Biology,Dr. A,Instructor Bias
+S052,"The course is okay, but I think it could be more interactive.",Neutral,Male,Physics,Dr. F,No Bias
+S033,I struggled to keep up because the material was not well-organized.,Negative,Female,Psychology,Dr. F,No Bias
+S066,"The course is okay, but I think it could be more interactive.",Neutral,Male,Engineering,Dr. F,Gender Bias
+S062,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Engineering,Dr. C,No Bias
+S094,"The class discussions are great, and the professor is very supportive.",Positive,Non-binary,Literature,Dr. C,No Bias
+S040,I struggled to keep up because the material was not well-organized.,Negative,Male,Mathematics,Dr. C,Racial Bias
+S090,The professor seems uninterested in student concerns.,Negative,Non-binary,Biology,Dr. C,Gender Bias
+S060,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Computer Science,Dr. F,Gender Bias
+S068,"The course is okay, but I think it could be more interactive.",Neutral,Non-binary,Engineering,Dr. B,Racial Bias
+S029,I don't feel like I'm learning much in this class.,Negative,Female,Literature,Dr. D,No Bias
+S021,The professor is too strict and doesn't explain concepts well.,Negative,Female,Physics,Dr. C,No Bias
+S011,"The course is okay, but I think it could be more interactive.",Neutral,Female,Mathematics,Dr. C,Instructor Bias
+S015,The assignments were challenging but helpful in understanding concepts.,Positive,Male,Engineering,Dr. C,Gender Bias
+S051,The professor is too strict and doesn't explain concepts well.,Negative,Non-binary,Physics,Dr. F,Instructor Bias
+S024,I love this course! The instructor is amazing and engaging.,Positive,Female,Physics,Dr. A,Grading Bias
+S011,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Psychology,Dr. F,Grading Bias
+S031,The assignments are too difficult and don't match the lectures.,Negative,Female,Biology,Dr. C,Racial Bias
+S016,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Literature,Dr. B,Grading Bias
+S050,The materials are helpful but could be better structured.,Neutral,Male,Computer Science,Dr. C,Racial Bias
+S078,I don't feel like I'm learning much in this class.,Negative,Non-binary,Psychology,Dr. C,Grading Bias
+S020,I struggled to keep up because the material was not well-organized.,Negative,Male,Psychology,Dr. C,Gender Bias
+S043,The professor is too strict and doesn't explain concepts well.,Negative,Non-binary,Literature,Dr. A,Gender Bias
+S084,The assignments were challenging but helpful in understanding concepts.,Positive,Non-binary,Physics,Dr. A,No Bias
+S010,The assignments were challenging but helpful in understanding concepts.,Positive,Non-binary,Engineering,Dr. D,Grading Bias
+S091,The professor seems uninterested in student concerns.,Negative,Female,Physics,Dr. C,Gender Bias
+S053,The professor is too strict and doesn't explain concepts well.,Negative,Non-binary,Literature,Dr. B,Instructor Bias
+S024,I don't feel like I'm learning much in this class.,Negative,Male,Physics,Dr. A,Racial Bias
+S012,The professor is too strict and doesn't explain concepts well.,Negative,Female,Engineering,Dr. A,Instructor Bias
+S031,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Computer Science,Dr. F,Grading Bias
+S041,The assignments are too difficult and don't match the lectures.,Negative,Female,Literature,Dr. B,Instructor Bias
+S077,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Engineering,Dr. C,Racial Bias
+S069,I struggled to keep up because the material was not well-organized.,Negative,Male,Computer Science,Dr. E,Grading Bias
+S032,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Engineering,Dr. E,Grading Bias
+S036,The professor seems uninterested in student concerns.,Negative,Non-binary,Mathematics,Dr. B,Gender Bias
+S049,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Male,Engineering,Dr. B,Grading Bias
+S032,I struggled to keep up because the material was not well-organized.,Negative,Female,Biology,Dr. A,Instructor Bias
+S049,I love this course! The instructor is amazing and engaging.,Positive,Female,Engineering,Dr. E,Racial Bias
+S020,I struggled to keep up because the material was not well-organized.,Negative,Female,Psychology,Dr. C,No Bias
+S028,I struggled to keep up because the material was not well-organized.,Negative,Male,Physics,Dr. D,Instructor Bias
+S055,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Literature,Dr. B,Racial Bias
+S077,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Computer Science,Dr. B,Gender Bias
+S086,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Biology,Dr. C,Gender Bias
+S091,The professor seems uninterested in student concerns.,Negative,Non-binary,Engineering,Dr. D,Racial Bias
+S090,I struggled to keep up because the material was not well-organized.,Negative,Male,Mathematics,Dr. D,Instructor Bias
+S081,The professor is too strict and doesn't explain concepts well.,Negative,Non-binary,Computer Science,Dr. A,Gender Bias
+S043,The assignments were challenging but helpful in understanding concepts.,Positive,Non-binary,Computer Science,Dr. E,Gender Bias
+S062,I struggled to keep up because the material was not well-organized.,Negative,Female,Mathematics,Dr. B,Grading Bias
+S009,"The grading system is fair, but the feedback could be more detailed.",Neutral,Non-binary,Biology,Dr. C,Instructor Bias
+S094,The professor provides excellent real-world examples.,Positive,Male,Physics,Dr. A,Instructor Bias
+S057,The professor is too strict and doesn't explain concepts well.,Negative,Male,Literature,Dr. E,Gender Bias
+S023,The professor seems uninterested in student concerns.,Negative,Male,Psychology,Dr. D,Grading Bias
+S095,I don't feel like I'm learning much in this class.,Negative,Female,Psychology,Dr. C,Grading Bias
+S052,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Physics,Dr. B,Racial Bias
+S024,The materials are helpful but could be better structured.,Neutral,Non-binary,Biology,Dr. B,Racial Bias
+S062,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Biology,Dr. A,No Bias
+S092,I struggled to keep up because the material was not well-organized.,Negative,Male,Physics,Dr. A,No Bias
+S023,I love this course! The instructor is amazing and engaging.,Positive,Female,Biology,Dr. C,Instructor Bias
+S041,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Biology,Dr. F,Grading Bias
+S018,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Computer Science,Dr. B,Grading Bias
+S063,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Computer Science,Dr. F,Racial Bias
+S081,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Biology,Dr. F,Racial Bias
+S088,I love this course! The instructor is amazing and engaging.,Positive,Non-binary,Literature,Dr. C,Gender Bias
+S056,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Literature,Dr. D,Instructor Bias
+S002,The professor seems uninterested in student concerns.,Negative,Female,Physics,Dr. E,Gender Bias
+S081,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Mathematics,Dr. F,Instructor Bias
+S059,The professor explains very well and makes the subject interesting.,Positive,Male,Biology,Dr. E,Grading Bias
+S081,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Engineering,Dr. C,Racial Bias
+S075,The professor is too strict and doesn't explain concepts well.,Negative,Male,Biology,Dr. A,No Bias
+S002,I don't feel like I'm learning much in this class.,Negative,Female,Literature,Dr. C,No Bias
+S037,"The class discussions are great, and the professor is very supportive.",Positive,Non-binary,Psychology,Dr. C,Grading Bias
+S035,"The class discussions are great, and the professor is very supportive.",Positive,Non-binary,Computer Science,Dr. E,Instructor Bias
+S078,"Overall, the experience is average. Not great, not terrible.",Neutral,Male,Mathematics,Dr. F,Instructor Bias
+S062,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Literature,Dr. F,No Bias
+S069,"The class discussions are great, and the professor is very supportive.",Positive,Male,Literature,Dr. B,Grading Bias
+S018,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Psychology,Dr. D,Gender Bias
+S067,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Literature,Dr. A,Gender Bias
+S035,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Mathematics,Dr. A,No Bias
+S024,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Mathematics,Dr. F,Racial Bias
+S095,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Biology,Dr. C,Grading Bias
+S006,The professor is too strict and doesn't explain concepts well.,Negative,Male,Physics,Dr. A,Grading Bias
+S074,The materials are helpful but could be better structured.,Neutral,Male,Physics,Dr. E,Grading Bias
+S074,The professor is too strict and doesn't explain concepts well.,Negative,Female,Physics,Dr. C,No Bias
+S082,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Literature,Dr. B,Racial Bias
+S005,The professor seems uninterested in student concerns.,Negative,Non-binary,Biology,Dr. B,No Bias
+S091,The assignments are too difficult and don't match the lectures.,Negative,Male,Biology,Dr. F,Grading Bias
+S045,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Psychology,Dr. B,Racial Bias
+S016,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Engineering,Dr. B,Instructor Bias
+S042,The assignments are too difficult and don't match the lectures.,Negative,Female,Literature,Dr. B,Grading Bias
+S013,"The course is okay, but I think it could be more interactive.",Neutral,Male,Engineering,Dr. F,Racial Bias
+S024,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Computer Science,Dr. C,Grading Bias
+S095,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Computer Science,Dr. F,Racial Bias
+S082,"The grading system is fair, but the feedback could be more detailed.",Neutral,Non-binary,Engineering,Dr. B,Instructor Bias
+S044,"The course is okay, but I think it could be more interactive.",Neutral,Male,Literature,Dr. F,Racial Bias
+S072,The assignments were challenging but helpful in understanding concepts.,Positive,Non-binary,Physics,Dr. F,Instructor Bias
+S043,"Overall, the experience is average. Not great, not terrible.",Neutral,Male,Psychology,Dr. C,Instructor Bias
+S087,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Literature,Dr. F,Racial Bias
+S060,The professor explains very well and makes the subject interesting.,Positive,Male,Physics,Dr. E,Gender Bias
+S046,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Female,Literature,Dr. C,Gender Bias
+S096,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Literature,Dr. E,Racial Bias
+S070,The materials are helpful but could be better structured.,Neutral,Female,Computer Science,Dr. B,Gender Bias
+S071,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Biology,Dr. E,Instructor Bias
+S034,I don't feel like I'm learning much in this class.,Negative,Female,Biology,Dr. C,Racial Bias
+S031,I love this course! The instructor is amazing and engaging.,Positive,Non-binary,Mathematics,Dr. E,Racial Bias
+S083,The materials are helpful but could be better structured.,Neutral,Female,Computer Science,Dr. D,Gender Bias
+S020,The assignments were challenging but helpful in understanding concepts.,Positive,Male,Mathematics,Dr. E,Grading Bias
+S048,The professor explains very well and makes the subject interesting.,Positive,Male,Biology,Dr. B,No Bias
+S046,The professor is too strict and doesn't explain concepts well.,Negative,Non-binary,Computer Science,Dr. B,Racial Bias
+S075,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Engineering,Dr. E,Racial Bias
+S043,I love this course! The instructor is amazing and engaging.,Positive,Female,Computer Science,Dr. E,Gender Bias
+S025,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Biology,Dr. A,Instructor Bias
+S055,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Physics,Dr. E,Instructor Bias
+S050,The assignments are too difficult and don't match the lectures.,Negative,Female,Physics,Dr. F,Instructor Bias
+S049,I struggled to keep up because the material was not well-organized.,Negative,Male,Biology,Dr. A,No Bias
+S031,"The course is okay, but I think it could be more interactive.",Neutral,Non-binary,Engineering,Dr. C,Instructor Bias
+S052,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Biology,Dr. F,Racial Bias
+S049,The professor provides excellent real-world examples.,Positive,Male,Physics,Dr. C,Grading Bias
+S088,The materials are helpful but could be better structured.,Neutral,Non-binary,Psychology,Dr. A,Gender Bias
+S053,"The class discussions are great, and the professor is very supportive.",Positive,Non-binary,Mathematics,Dr. F,No Bias
+S014,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Engineering,Dr. F,No Bias
+S086,The professor is too strict and doesn't explain concepts well.,Negative,Male,Biology,Dr. A,Gender Bias
+S057,I love this course! The instructor is amazing and engaging.,Positive,Male,Engineering,Dr. F,Grading Bias
+S006,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Mathematics,Dr. D,Gender Bias
+S025,I love this course! The instructor is amazing and engaging.,Positive,Non-binary,Computer Science,Dr. E,No Bias
+S075,I don't feel like I'm learning much in this class.,Negative,Male,Literature,Dr. A,No Bias
+S097,The assignments were challenging but helpful in understanding concepts.,Positive,Non-binary,Psychology,Dr. E,Racial Bias
+S074,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Computer Science,Dr. B,Gender Bias
+S044,"The course is okay, but I think it could be more interactive.",Neutral,Female,Literature,Dr. E,Racial Bias
+S046,The professor seems uninterested in student concerns.,Negative,Male,Biology,Dr. A,Gender Bias
+S055,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Mathematics,Dr. D,Grading Bias
+S006,The professor is too strict and doesn't explain concepts well.,Negative,Female,Engineering,Dr. E,Racial Bias
+S100,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Psychology,Dr. D,Gender Bias
+S073,I don't feel like I'm learning much in this class.,Negative,Male,Psychology,Dr. D,Gender Bias
+S025,I don't feel like I'm learning much in this class.,Negative,Female,Biology,Dr. E,No Bias
+S092,I don't feel like I'm learning much in this class.,Negative,Male,Physics,Dr. A,Gender Bias
+S074,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Psychology,Dr. F,Racial Bias
+S075,The assignments are too difficult and don't match the lectures.,Negative,Female,Engineering,Dr. D,No Bias
+S035,The professor provides excellent real-world examples.,Positive,Male,Psychology,Dr. B,Gender Bias
+S004,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Literature,Dr. A,Gender Bias
+S052,I struggled to keep up because the material was not well-organized.,Negative,Female,Computer Science,Dr. E,Grading Bias
+S007,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Physics,Dr. A,No Bias
+S074,The assignments were challenging but helpful in understanding concepts.,Positive,Male,Literature,Dr. D,No Bias
+S091,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Psychology,Dr. A,Racial Bias
+S051,"The grading system is fair, but the feedback could be more detailed.",Neutral,Non-binary,Literature,Dr. D,Gender Bias
+S073,I struggled to keep up because the material was not well-organized.,Negative,Female,Literature,Dr. C,Instructor Bias
+S040,"The course is okay, but I think it could be more interactive.",Neutral,Non-binary,Psychology,Dr. D,Gender Bias
+S067,The professor provides excellent real-world examples.,Positive,Female,Biology,Dr. D,Instructor Bias
+S007,"The class discussions are great, and the professor is very supportive.",Positive,Non-binary,Psychology,Dr. F,Instructor Bias
+S030,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Male,Literature,Dr. F,No Bias
+S086,The professor is too strict and doesn't explain concepts well.,Negative,Female,Psychology,Dr. E,Gender Bias
+S021,I love this course! The instructor is amazing and engaging.,Positive,Female,Mathematics,Dr. C,Grading Bias
+S008,"The course is okay, but I think it could be more interactive.",Neutral,Female,Psychology,Dr. A,Instructor Bias
+S044,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Physics,Dr. C,No Bias
+S045,"The grading system is fair, but the feedback could be more detailed.",Neutral,Non-binary,Mathematics,Dr. B,No Bias
+S083,The professor explains very well and makes the subject interesting.,Positive,Female,Literature,Dr. C,Gender Bias
+S003,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Literature,Dr. E,Grading Bias
+S012,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Computer Science,Dr. E,Grading Bias
+S006,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Engineering,Dr. E,Grading Bias
+S075,"The course is okay, but I think it could be more interactive.",Neutral,Male,Biology,Dr. C,No Bias
+S063,"Overall, the experience is average. Not great, not terrible.",Neutral,Male,Physics,Dr. A,Grading Bias
+S078,The professor explains very well and makes the subject interesting.,Positive,Male,Computer Science,Dr. B,No Bias
+S092,The professor explains very well and makes the subject interesting.,Positive,Male,Engineering,Dr. A,Gender Bias
+S092,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Mathematics,Dr. B,No Bias
+S005,The professor is too strict and doesn't explain concepts well.,Negative,Female,Physics,Dr. D,Gender Bias
+S083,The materials are helpful but could be better structured.,Neutral,Female,Computer Science,Dr. F,Gender Bias
+S088,"The grading system is fair, but the feedback could be more detailed.",Neutral,Non-binary,Engineering,Dr. F,No Bias
+S005,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Male,Engineering,Dr. D,Instructor Bias
+S098,The professor explains very well and makes the subject interesting.,Positive,Female,Biology,Dr. D,Gender Bias
+S085,"The class discussions are great, and the professor is very supportive.",Positive,Non-binary,Engineering,Dr. E,Gender Bias
+S028,"The course is okay, but I think it could be more interactive.",Neutral,Female,Computer Science,Dr. D,Instructor Bias
+S044,I love this course! The instructor is amazing and engaging.,Positive,Male,Computer Science,Dr. F,Racial Bias
+S037,"The class discussions are great, and the professor is very supportive.",Positive,Female,Psychology,Dr. A,Racial Bias
+S055,The professor is too strict and doesn't explain concepts well.,Negative,Non-binary,Biology,Dr. E,Gender Bias
+S007,The professor explains very well and makes the subject interesting.,Positive,Female,Physics,Dr. F,Instructor Bias
+S099,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Female,Physics,Dr. A,No Bias
+S074,The materials are helpful but could be better structured.,Neutral,Female,Mathematics,Dr. E,Racial Bias
+S078,I don't feel like I'm learning much in this class.,Negative,Female,Psychology,Dr. F,Gender Bias
+S084,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Psychology,Dr. E,No Bias
+S050,The professor is too strict and doesn't explain concepts well.,Negative,Female,Physics,Dr. F,Grading Bias
+S062,The professor provides excellent real-world examples.,Positive,Female,Biology,Dr. F,No Bias
+S014,"Overall, the experience is average. Not great, not terrible.",Neutral,Male,Literature,Dr. E,Instructor Bias
+S004,"The class discussions are great, and the professor is very supportive.",Positive,Male,Engineering,Dr. B,Gender Bias
+S083,The professor provides excellent real-world examples.,Positive,Non-binary,Physics,Dr. E,Instructor Bias
+S021,The professor provides excellent real-world examples.,Positive,Male,Computer Science,Dr. C,No Bias
+S028,The assignments are too difficult and don't match the lectures.,Negative,Female,Literature,Dr. E,Racial Bias
+S082,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Literature,Dr. D,Grading Bias
+S055,"The class discussions are great, and the professor is very supportive.",Positive,Male,Engineering,Dr. E,Racial Bias
+S037,The assignments were challenging but helpful in understanding concepts.,Positive,Male,Physics,Dr. E,Gender Bias
+S001,The assignments were challenging but helpful in understanding concepts.,Positive,Male,Computer Science,Dr. D,Instructor Bias
+S014,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Computer Science,Dr. E,Gender Bias
+S099,"Overall, the experience is average. Not great, not terrible.",Neutral,Male,Engineering,Dr. B,Racial Bias
+S021,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Mathematics,Dr. D,Instructor Bias
+S069,The materials are helpful but could be better structured.,Neutral,Non-binary,Mathematics,Dr. B,Gender Bias
+S015,The professor is too strict and doesn't explain concepts well.,Negative,Non-binary,Engineering,Dr. D,Grading Bias
+S046,The materials are helpful but could be better structured.,Neutral,Non-binary,Computer Science,Dr. F,Racial Bias
+S081,"The course is okay, but I think it could be more interactive.",Neutral,Non-binary,Psychology,Dr. F,Instructor Bias
+S081,"The course is okay, but I think it could be more interactive.",Neutral,Non-binary,Literature,Dr. B,Gender Bias
+S058,"The course is okay, but I think it could be more interactive.",Neutral,Female,Biology,Dr. C,Racial Bias
+S031,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Psychology,Dr. B,Gender Bias
+S082,I don't feel like I'm learning much in this class.,Negative,Non-binary,Literature,Dr. B,Instructor Bias
+S067,The materials are helpful but could be better structured.,Neutral,Female,Engineering,Dr. D,Instructor Bias
+S060,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Physics,Dr. C,No Bias
+S057,The assignments are too difficult and don't match the lectures.,Negative,Male,Computer Science,Dr. C,Gender Bias
+S023,The professor provides excellent real-world examples.,Positive,Non-binary,Computer Science,Dr. D,Gender Bias
+S050,The materials are helpful but could be better structured.,Neutral,Male,Physics,Dr. D,Grading Bias
+S033,The professor provides excellent real-world examples.,Positive,Female,Biology,Dr. C,Racial Bias
+S097,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Literature,Dr. A,Instructor Bias
+S079,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Male,Literature,Dr. C,No Bias
+S084,The professor seems uninterested in student concerns.,Negative,Non-binary,Literature,Dr. A,Racial Bias
+S097,I love this course! The instructor is amazing and engaging.,Positive,Female,Physics,Dr. D,No Bias
+S038,The materials are helpful but could be better structured.,Neutral,Female,Engineering,Dr. C,Gender Bias
+S095,The materials are helpful but could be better structured.,Neutral,Non-binary,Psychology,Dr. E,Racial Bias
+S060,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Engineering,Dr. C,Gender Bias
+S017,"The course is okay, but I think it could be more interactive.",Neutral,Male,Biology,Dr. E,Racial Bias
+S088,I don't feel like I'm learning much in this class.,Negative,Non-binary,Literature,Dr. E,Grading Bias
+S077,"The course is okay, but I think it could be more interactive.",Neutral,Male,Biology,Dr. D,No Bias
+S053,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Biology,Dr. F,Instructor Bias
+S041,The assignments are too difficult and don't match the lectures.,Negative,Female,Physics,Dr. B,Racial Bias
+S031,The professor seems uninterested in student concerns.,Negative,Male,Biology,Dr. A,Gender Bias
+S045,The professor provides excellent real-world examples.,Positive,Non-binary,Mathematics,Dr. A,Gender Bias
+S089,The professor seems uninterested in student concerns.,Negative,Male,Computer Science,Dr. C,Gender Bias
+S068,The professor seems uninterested in student concerns.,Negative,Non-binary,Mathematics,Dr. E,Racial Bias
+S014,"The grading system is fair, but the feedback could be more detailed.",Neutral,Non-binary,Computer Science,Dr. F,No Bias
+S052,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Engineering,Dr. A,No Bias
+S085,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Psychology,Dr. B,Grading Bias
+S054,I love this course! The instructor is amazing and engaging.,Positive,Non-binary,Physics,Dr. F,Instructor Bias
+S077,"The class discussions are great, and the professor is very supportive.",Positive,Non-binary,Biology,Dr. A,Racial Bias
+S088,The assignments were challenging but helpful in understanding concepts.,Positive,Non-binary,Psychology,Dr. D,Racial Bias
+S002,The assignments were challenging but helpful in understanding concepts.,Positive,Male,Psychology,Dr. B,No Bias
+S044,The professor is too strict and doesn't explain concepts well.,Negative,Female,Literature,Dr. D,Gender Bias
+S066,The professor seems uninterested in student concerns.,Negative,Non-binary,Physics,Dr. D,Grading Bias
+S031,The assignments were challenging but helpful in understanding concepts.,Positive,Male,Mathematics,Dr. D,Grading Bias
+S020,The materials are helpful but could be better structured.,Neutral,Non-binary,Literature,Dr. F,Racial Bias
+S028,The professor explains very well and makes the subject interesting.,Positive,Female,Engineering,Dr. A,Racial Bias
+S016,"The course is okay, but I think it could be more interactive.",Neutral,Male,Literature,Dr. A,Instructor Bias
+S091,The professor explains very well and makes the subject interesting.,Positive,Female,Psychology,Dr. D,Gender Bias
+S081,The professor explains very well and makes the subject interesting.,Positive,Female,Physics,Dr. A,Gender Bias
+S096,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Literature,Dr. B,Grading Bias
+S021,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Literature,Dr. E,No Bias
+S027,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Computer Science,Dr. C,Gender Bias
+S044,I struggled to keep up because the material was not well-organized.,Negative,Female,Mathematics,Dr. C,Gender Bias
+S062,The professor provides excellent real-world examples.,Positive,Non-binary,Mathematics,Dr. C,Racial Bias
+S050,The assignments are too difficult and don't match the lectures.,Negative,Female,Computer Science,Dr. A,Grading Bias
+S027,"The course is okay, but I think it could be more interactive.",Neutral,Female,Biology,Dr. C,Grading Bias
+S019,The professor provides excellent real-world examples.,Positive,Male,Psychology,Dr. D,Racial Bias
+S062,I don't feel like I'm learning much in this class.,Negative,Non-binary,Biology,Dr. E,No Bias
+S063,The assignments were challenging but helpful in understanding concepts.,Positive,Non-binary,Computer Science,Dr. F,Grading Bias
+S010,I struggled to keep up because the material was not well-organized.,Negative,Female,Biology,Dr. A,Racial Bias
+S051,I love this course! The instructor is amazing and engaging.,Positive,Male,Psychology,Dr. C,Gender Bias
+S038,I don't feel like I'm learning much in this class.,Negative,Female,Mathematics,Dr. A,Gender Bias
+S068,The professor seems uninterested in student concerns.,Negative,Non-binary,Psychology,Dr. E,Instructor Bias
+S040,I don't feel like I'm learning much in this class.,Negative,Male,Computer Science,Dr. F,Grading Bias
+S087,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Mathematics,Dr. F,Instructor Bias
+S012,The materials are helpful but could be better structured.,Neutral,Male,Biology,Dr. E,No Bias
+S016,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Male,Biology,Dr. A,Racial Bias
+S025,The professor seems uninterested in student concerns.,Negative,Male,Mathematics,Dr. B,No Bias
+S092,The materials are helpful but could be better structured.,Neutral,Non-binary,Computer Science,Dr. D,Instructor Bias
+S076,The professor provides excellent real-world examples.,Positive,Male,Literature,Dr. F,No Bias
+S095,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Engineering,Dr. B,Instructor Bias
+S034,I struggled to keep up because the material was not well-organized.,Negative,Male,Mathematics,Dr. E,Instructor Bias
+S079,I don't feel like I'm learning much in this class.,Negative,Non-binary,Engineering,Dr. E,Racial Bias
+S089,I don't feel like I'm learning much in this class.,Negative,Male,Computer Science,Dr. A,Gender Bias
+S012,The professor provides excellent real-world examples.,Positive,Male,Psychology,Dr. C,Gender Bias
+S085,"The class discussions are great, and the professor is very supportive.",Positive,Female,Psychology,Dr. E,Grading Bias
+S075,"The class discussions are great, and the professor is very supportive.",Positive,Male,Computer Science,Dr. C,Gender Bias
+S017,I love this course! The instructor is amazing and engaging.,Positive,Male,Computer Science,Dr. B,Gender Bias
+S014,The professor seems uninterested in student concerns.,Negative,Female,Mathematics,Dr. C,Racial Bias
+S011,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Female,Literature,Dr. A,Grading Bias
+S061,The professor explains very well and makes the subject interesting.,Positive,Male,Computer Science,Dr. B,Instructor Bias
+S080,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Computer Science,Dr. F,Instructor Bias
+S066,The professor is too strict and doesn't explain concepts well.,Negative,Non-binary,Biology,Dr. D,Grading Bias
+S006,The professor is too strict and doesn't explain concepts well.,Negative,Non-binary,Engineering,Dr. B,Gender Bias
+S003,The professor seems uninterested in student concerns.,Negative,Non-binary,Literature,Dr. D,Grading Bias
+S005,"The course is okay, but I think it could be more interactive.",Neutral,Non-binary,Literature,Dr. A,Instructor Bias
+S085,The professor provides excellent real-world examples.,Positive,Female,Biology,Dr. D,Gender Bias
+S009,The professor explains very well and makes the subject interesting.,Positive,Male,Computer Science,Dr. B,Racial Bias
+S069,The assignments are too difficult and don't match the lectures.,Negative,Male,Physics,Dr. E,Grading Bias
+S009,The materials are helpful but could be better structured.,Neutral,Female,Physics,Dr. A,No Bias
+S029,I don't feel like I'm learning much in this class.,Negative,Male,Mathematics,Dr. E,Racial Bias
+S011,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Literature,Dr. E,No Bias
+S024,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Psychology,Dr. F,No Bias
+S086,The professor is too strict and doesn't explain concepts well.,Negative,Non-binary,Biology,Dr. E,Gender Bias
+S045,"The class discussions are great, and the professor is very supportive.",Positive,Non-binary,Computer Science,Dr. C,Grading Bias
+S008,I love this course! The instructor is amazing and engaging.,Positive,Non-binary,Psychology,Dr. C,No Bias
+S058,"Overall, the experience is average. Not great, not terrible.",Neutral,Male,Engineering,Dr. D,Grading Bias
+S039,I love this course! The instructor is amazing and engaging.,Positive,Female,Biology,Dr. A,Racial Bias
+S009,I struggled to keep up because the material was not well-organized.,Negative,Female,Physics,Dr. C,Instructor Bias
+S043,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Literature,Dr. B,Racial Bias
+S037,"The class discussions are great, and the professor is very supportive.",Positive,Non-binary,Psychology,Dr. E,Racial Bias
+S075,The professor seems uninterested in student concerns.,Negative,Female,Engineering,Dr. B,No Bias
+S013,The professor provides excellent real-world examples.,Positive,Non-binary,Mathematics,Dr. C,Instructor Bias
+S068,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Physics,Dr. A,Gender Bias
+S032,"Overall, the experience is average. Not great, not terrible.",Neutral,Male,Biology,Dr. D,No Bias
+S001,I love this course! The instructor is amazing and engaging.,Positive,Male,Computer Science,Dr. F,Grading Bias
+S025,The professor provides excellent real-world examples.,Positive,Non-binary,Literature,Dr. E,Grading Bias
+S072,I don't feel like I'm learning much in this class.,Negative,Non-binary,Computer Science,Dr. E,Gender Bias
+S009,The assignments are too difficult and don't match the lectures.,Negative,Male,Engineering,Dr. D,Racial Bias
+S001,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Biology,Dr. C,Gender Bias
+S081,I don't feel like I'm learning much in this class.,Negative,Non-binary,Psychology,Dr. F,No Bias
+S076,"Overall, the experience is average. Not great, not terrible.",Neutral,Male,Mathematics,Dr. D,No Bias
+S010,The assignments are too difficult and don't match the lectures.,Negative,Male,Psychology,Dr. B,Racial Bias
+S028,The materials are helpful but could be better structured.,Neutral,Male,Engineering,Dr. F,Racial Bias
+S095,"The course is okay, but I think it could be more interactive.",Neutral,Male,Mathematics,Dr. F,Instructor Bias
+S008,I love this course! The instructor is amazing and engaging.,Positive,Non-binary,Physics,Dr. B,Gender Bias
+S036,The professor explains very well and makes the subject interesting.,Positive,Female,Literature,Dr. C,Gender Bias
+S087,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Computer Science,Dr. B,No Bias
+S073,The materials are helpful but could be better structured.,Neutral,Female,Engineering,Dr. E,Racial Bias
+S062,"The class discussions are great, and the professor is very supportive.",Positive,Male,Biology,Dr. A,Grading Bias
+S048,The professor is too strict and doesn't explain concepts well.,Negative,Female,Mathematics,Dr. C,No Bias
+S018,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Female,Mathematics,Dr. A,Gender Bias
+S086,The professor seems uninterested in student concerns.,Negative,Female,Engineering,Dr. B,Racial Bias
+S023,The professor explains very well and makes the subject interesting.,Positive,Female,Engineering,Dr. A,Instructor Bias
+S047,The assignments are too difficult and don't match the lectures.,Negative,Male,Physics,Dr. A,Instructor Bias
+S007,The materials are helpful but could be better structured.,Neutral,Male,Computer Science,Dr. F,No Bias
+S088,I struggled to keep up because the material was not well-organized.,Negative,Male,Computer Science,Dr. E,Racial Bias
+S020,The materials are helpful but could be better structured.,Neutral,Female,Physics,Dr. A,Instructor Bias
+S014,The assignments were challenging but helpful in understanding concepts.,Positive,Male,Computer Science,Dr. C,No Bias
+S077,The professor explains very well and makes the subject interesting.,Positive,Female,Mathematics,Dr. A,Grading Bias
+S072,The assignments are too difficult and don't match the lectures.,Negative,Female,Psychology,Dr. F,Gender Bias
+S026,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Mathematics,Dr. F,Racial Bias
+S017,The professor explains very well and makes the subject interesting.,Positive,Male,Literature,Dr. E,Instructor Bias
+S099,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Engineering,Dr. E,Racial Bias
+S081,The professor seems uninterested in student concerns.,Negative,Non-binary,Biology,Dr. E,Gender Bias
+S096,I struggled to keep up because the material was not well-organized.,Negative,Male,Computer Science,Dr. F,Instructor Bias
+S030,"The grading system is fair, but the feedback could be more detailed.",Neutral,Non-binary,Computer Science,Dr. D,Gender Bias
+S050,The professor provides excellent real-world examples.,Positive,Female,Biology,Dr. C,No Bias
+S060,The professor seems uninterested in student concerns.,Negative,Non-binary,Literature,Dr. F,Racial Bias
+S047,I love this course! The instructor is amazing and engaging.,Positive,Female,Computer Science,Dr. E,No Bias
+S074,The professor explains very well and makes the subject interesting.,Positive,Female,Mathematics,Dr. F,Instructor Bias
+S038,The professor provides excellent real-world examples.,Positive,Non-binary,Mathematics,Dr. F,Racial Bias
+S019,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Physics,Dr. F,No Bias
+S060,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Engineering,Dr. B,Instructor Bias
+S028,"The class discussions are great, and the professor is very supportive.",Positive,Female,Mathematics,Dr. A,Instructor Bias
+S001,The professor explains very well and makes the subject interesting.,Positive,Male,Mathematics,Dr. B,Racial Bias
+S072,The professor seems uninterested in student concerns.,Negative,Male,Biology,Dr. B,Gender Bias
+S077,The professor seems uninterested in student concerns.,Negative,Male,Psychology,Dr. E,No Bias
+S016,The professor seems uninterested in student concerns.,Negative,Male,Engineering,Dr. A,Gender Bias
+S094,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Engineering,Dr. A,No Bias
+S080,I struggled to keep up because the material was not well-organized.,Negative,Female,Physics,Dr. B,No Bias
+S093,I love this course! The instructor is amazing and engaging.,Positive,Female,Mathematics,Dr. F,Racial Bias
+S002,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Female,Computer Science,Dr. D,Gender Bias
+S084,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Computer Science,Dr. A,Grading Bias
+S045,The professor seems uninterested in student concerns.,Negative,Female,Biology,Dr. D,No Bias
+S027,The materials are helpful but could be better structured.,Neutral,Male,Physics,Dr. D,Instructor Bias
+S052,"Overall, the experience is average. Not great, not terrible.",Neutral,Non-binary,Mathematics,Dr. E,Gender Bias
+S064,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Biology,Dr. C,Grading Bias
+S033,The professor provides excellent real-world examples.,Positive,Male,Mathematics,Dr. B,Grading Bias
+S076,The assignments were challenging but helpful in understanding concepts.,Positive,Non-binary,Biology,Dr. F,Grading Bias
+S048,I struggled to keep up because the material was not well-organized.,Negative,Female,Physics,Dr. E,Racial Bias
+S042,The materials are helpful but could be better structured.,Neutral,Female,Literature,Dr. C,Grading Bias
+S041,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Biology,Dr. B,Instructor Bias
+S069,The professor is too strict and doesn't explain concepts well.,Negative,Female,Mathematics,Dr. A,Instructor Bias
+S028,"The class discussions are great, and the professor is very supportive.",Positive,Female,Psychology,Dr. A,Grading Bias
+S041,I struggled to keep up because the material was not well-organized.,Negative,Female,Psychology,Dr. A,Racial Bias
+S083,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Literature,Dr. E,Grading Bias
+S049,The assignments are too difficult and don't match the lectures.,Negative,Male,Psychology,Dr. F,No Bias
+S090,"The class discussions are great, and the professor is very supportive.",Positive,Female,Computer Science,Dr. C,Instructor Bias
+S082,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Literature,Dr. D,Gender Bias
+S072,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Psychology,Dr. F,Grading Bias
+S072,The professor provides excellent real-world examples.,Positive,Female,Biology,Dr. C,No Bias
+S064,The professor seems uninterested in student concerns.,Negative,Female,Mathematics,Dr. F,No Bias
+S044,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Physics,Dr. A,Instructor Bias
+S035,"The class discussions are great, and the professor is very supportive.",Positive,Male,Mathematics,Dr. F,Grading Bias
+S035,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Computer Science,Dr. D,Gender Bias
+S017,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Literature,Dr. B,Gender Bias
+S071,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Physics,Dr. A,Racial Bias
+S041,I love this course! The instructor is amazing and engaging.,Positive,Male,Engineering,Dr. B,No Bias
+S095,I love this course! The instructor is amazing and engaging.,Positive,Female,Computer Science,Dr. C,Racial Bias
+S075,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Male,Mathematics,Dr. E,No Bias
+S012,I struggled to keep up because the material was not well-organized.,Negative,Male,Mathematics,Dr. C,Instructor Bias
+S005,The assignments are too difficult and don't match the lectures.,Negative,Female,Biology,Dr. C,No Bias
+S013,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Physics,Dr. E,Gender Bias
+S069,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Female,Computer Science,Dr. A,Grading Bias
+S033,I struggled to keep up because the material was not well-organized.,Negative,Male,Literature,Dr. F,Grading Bias
+S008,The professor is too strict and doesn't explain concepts well.,Negative,Female,Biology,Dr. D,No Bias
+S004,"The class discussions are great, and the professor is very supportive.",Positive,Female,Engineering,Dr. E,No Bias
+S021,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Psychology,Dr. A,Gender Bias
+S055,I love this course! The instructor is amazing and engaging.,Positive,Non-binary,Mathematics,Dr. C,Gender Bias
+S038,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Female,Physics,Dr. E,Gender Bias
+S068,The materials are helpful but could be better structured.,Neutral,Male,Psychology,Dr. E,No Bias
+S084,The assignments were challenging but helpful in understanding concepts.,Positive,Non-binary,Physics,Dr. C,No Bias
+S005,I struggled to keep up because the material was not well-organized.,Negative,Female,Engineering,Dr. F,Gender Bias
+S023,"The course is okay, but I think it could be more interactive.",Neutral,Female,Computer Science,Dr. F,Grading Bias
+S005,The professor is too strict and doesn't explain concepts well.,Negative,Male,Computer Science,Dr. B,Instructor Bias
+S004,The assignments are too difficult and don't match the lectures.,Negative,Non-binary,Mathematics,Dr. A,Instructor Bias
+S060,The professor seems uninterested in student concerns.,Negative,Female,Psychology,Dr. A,Instructor Bias
+S052,The professor is too strict and doesn't explain concepts well.,Negative,Female,Computer Science,Dr. E,No Bias
+S014,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Biology,Dr. B,Racial Bias
+S030,The materials are helpful but could be better structured.,Neutral,Female,Biology,Dr. C,Instructor Bias
+S064,I struggled to keep up because the material was not well-organized.,Negative,Male,Computer Science,Dr. F,Gender Bias
+S030,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Psychology,Dr. C,No Bias
+S001,The materials are helpful but could be better structured.,Neutral,Male,Biology,Dr. F,Gender Bias
+S077,I don't feel like I'm learning much in this class.,Negative,Non-binary,Computer Science,Dr. D,Gender Bias
+S100,"The grading system is fair, but the feedback could be more detailed.",Neutral,Non-binary,Biology,Dr. B,No Bias
+S027,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Biology,Dr. D,Grading Bias
+S097,I struggled to keep up because the material was not well-organized.,Negative,Male,Computer Science,Dr. D,Instructor Bias
+S056,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Mathematics,Dr. D,No Bias
+S044,I love this course! The instructor is amazing and engaging.,Positive,Non-binary,Literature,Dr. A,Grading Bias
+S036,"The class discussions are great, and the professor is very supportive.",Positive,Female,Biology,Dr. F,Instructor Bias
+S094,The materials are helpful but could be better structured.,Neutral,Male,Physics,Dr. E,No Bias
+S022,The professor provides excellent real-world examples.,Positive,Female,Physics,Dr. E,Racial Bias
+S044,The professor provides excellent real-world examples.,Positive,Non-binary,Psychology,Dr. C,Instructor Bias
+S029,I love this course! The instructor is amazing and engaging.,Positive,Male,Physics,Dr. E,Racial Bias
+S019,The professor is too strict and doesn't explain concepts well.,Negative,Non-binary,Physics,Dr. D,Racial Bias
+S036,The professor is too strict and doesn't explain concepts well.,Negative,Male,Physics,Dr. A,Grading Bias
+S060,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Engineering,Dr. F,Racial Bias
+S094,The assignments are too difficult and don't match the lectures.,Negative,Male,Psychology,Dr. E,Grading Bias
+S062,The professor is too strict and doesn't explain concepts well.,Negative,Female,Literature,Dr. E,No Bias
+S029,I love this course! The instructor is amazing and engaging.,Positive,Male,Literature,Dr. E,Racial Bias
+S091,I love this course! The instructor is amazing and engaging.,Positive,Non-binary,Psychology,Dr. D,Racial Bias
+S010,The assignments are too difficult and don't match the lectures.,Negative,Male,Biology,Dr. B,Grading Bias
+S033,The professor is too strict and doesn't explain concepts well.,Negative,Female,Mathematics,Dr. B,Racial Bias
+S056,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Mathematics,Dr. F,No Bias
+S047,The professor explains very well and makes the subject interesting.,Positive,Male,Psychology,Dr. C,Instructor Bias
+S027,The professor is too strict and doesn't explain concepts well.,Negative,Female,Biology,Dr. D,Grading Bias
+S043,I struggled to keep up because the material was not well-organized.,Negative,Male,Computer Science,Dr. F,Grading Bias
+S098,I don't feel like I'm learning much in this class.,Negative,Non-binary,Engineering,Dr. B,Grading Bias
+S082,The professor provides excellent real-world examples.,Positive,Non-binary,Physics,Dr. C,No Bias
+S065,The professor is too strict and doesn't explain concepts well.,Negative,Female,Physics,Dr. C,No Bias
+S015,The assignments are too difficult and don't match the lectures.,Negative,Female,Engineering,Dr. A,Gender Bias
+S091,The professor seems uninterested in student concerns.,Negative,Female,Mathematics,Dr. E,Grading Bias
+S045,The professor seems uninterested in student concerns.,Negative,Non-binary,Literature,Dr. F,Racial Bias
+S011,The professor is too strict and doesn't explain concepts well.,Negative,Female,Biology,Dr. E,No Bias
+S010,"The class discussions are great, and the professor is very supportive.",Positive,Non-binary,Physics,Dr. C,Instructor Bias
+S027,The professor explains very well and makes the subject interesting.,Positive,Female,Psychology,Dr. C,No Bias
+S013,I struggled to keep up because the material was not well-organized.,Negative,Male,Psychology,Dr. F,No Bias
+S045,I love this course! The instructor is amazing and engaging.,Positive,Male,Biology,Dr. A,Gender Bias
+S017,The professor explains very well and makes the subject interesting.,Positive,Non-binary,Biology,Dr. A,Instructor Bias
+S042,"The course is okay, but I think it could be more interactive.",Neutral,Female,Literature,Dr. B,Grading Bias
+S003,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Biology,Dr. E,Gender Bias
+S032,The assignments were challenging but helpful in understanding concepts.,Positive,Female,Psychology,Dr. D,Racial Bias
+S059,I love this course! The instructor is amazing and engaging.,Positive,Male,Computer Science,Dr. A,No Bias
+S089,The professor seems uninterested in student concerns.,Negative,Non-binary,Engineering,Dr. A,Racial Bias
+S040,The professor seems uninterested in student concerns.,Negative,Female,Mathematics,Dr. E,Instructor Bias
+S057,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Physics,Dr. A,Gender Bias
+S067,The professor provides excellent real-world examples.,Positive,Male,Biology,Dr. A,Racial Bias
+S097,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Engineering,Dr. C,Gender Bias
+S089,"The class discussions are great, and the professor is very supportive.",Positive,Non-binary,Engineering,Dr. E,Gender Bias
+S010,I struggled to keep up because the material was not well-organized.,Negative,Non-binary,Literature,Dr. D,Racial Bias
+S072,I struggled to keep up because the material was not well-organized.,Negative,Male,Physics,Dr. C,Gender Bias
+S022,The materials are helpful but could be better structured.,Neutral,Non-binary,Psychology,Dr. F,Racial Bias
+S089,I don't feel like I'm learning much in this class.,Negative,Female,Literature,Dr. A,Gender Bias
+S031,The professor seems uninterested in student concerns.,Negative,Male,Engineering,Dr. B,Gender Bias
+S068,The professor seems uninterested in student concerns.,Negative,Female,Mathematics,Dr. B,Racial Bias
+S026,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Physics,Dr. B,Instructor Bias
+S071,I love this course! The instructor is amazing and engaging.,Positive,Male,Literature,Dr. D,Racial Bias
+S095,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Male,Biology,Dr. E,Instructor Bias
+S034,The professor explains very well and makes the subject interesting.,Positive,Male,Physics,Dr. E,Gender Bias
+S070,"The class discussions are great, and the professor is very supportive.",Positive,Male,Computer Science,Dr. E,Grading Bias
+S062,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Male,Literature,Dr. F,No Bias
+S039,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Non-binary,Physics,Dr. B,Instructor Bias
+S093,"The grading system is fair, but the feedback could be more detailed.",Neutral,Non-binary,Physics,Dr. C,Instructor Bias
+S029,I don't feel like I'm learning much in this class.,Negative,Non-binary,Mathematics,Dr. A,No Bias
+S063,"The grading system is fair, but the feedback could be more detailed.",Neutral,Male,Mathematics,Dr. D,Grading Bias
+S058,"The professor is knowledgeable, but sometimes the lectures feel rushed.",Neutral,Male,Psychology,Dr. C,Racial Bias
+S012,"The course is okay, but I think it could be more interactive.",Neutral,Male,Physics,Dr. B,Gender Bias
+S013,The professor explains very well and makes the subject interesting.,Positive,Male,Literature,Dr. B,No Bias
+S089,I don't feel like I'm learning much in this class.,Negative,Non-binary,Literature,Dr. A,Racial Bias
+S037,"Overall, the experience is average. Not great, not terrible.",Neutral,Female,Physics,Dr. A,Instructor Bias
+S070,"The grading system is fair, but the feedback could be more detailed.",Neutral,Female,Computer Science,Dr. A,Instructor Bias
